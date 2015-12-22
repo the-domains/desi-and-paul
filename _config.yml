@@ -1,0 +1,28 @@
+name: 'Desi and Paul '
+favicon: null
+layout_spectrum: 0.8740049200132489
+typography_spectrum: 0.6386901098303497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9736907593905926
+  lightness: 0.20693754265084863
+  saturation: 0.4017524477094412
+  rhythmicContrast: 0.21090801735408604
+purpose: []
